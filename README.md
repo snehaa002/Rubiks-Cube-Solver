@@ -22,7 +22,7 @@ A real-time **Rubik’s Cube Solver** that uses your webcam to:
 
 ## 🧰 Tech Stack & Libraries
 
-- **Python 3.10.8**  
+- **Python 3.13.3**  
 - **[OpenCV](https://opencv.org/)** – Camera capture, image display, overlays  
 - **[NumPy](https://numpy.org/)** – Numerical operations  
 - **[kociemba](https://pypi.org/project/kociemba/)** – Cube solving algorithm  
